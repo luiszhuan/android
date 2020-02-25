@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">firstcodes</string>
+    <string name="parse_xml">解析XML</string>
+    <string name="xml_parse_main">Xml解析</string>
+    <string name="start_service">启动服务</string>
+    <string name="stop_service">停止服务</string>
+    <string name="xml_service_main">服务</string>
+    <string name="increase">增加</string>
+    <string name="tv_score">0</string>
+    <string name="decrease">减少</string>
+    <string name="xml_databind_main">DataBind</string>
+</resources>
